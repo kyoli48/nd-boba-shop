@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nd-boba-shop/static/css/main.49bf14d1.css",
+    "main.js": "/nd-boba-shop/static/js/main.b9db6305.js",
+    "index.html": "/nd-boba-shop/index.html",
+    "main.49bf14d1.css.map": "/nd-boba-shop/static/css/main.49bf14d1.css.map",
+    "main.b9db6305.js.map": "/nd-boba-shop/static/js/main.b9db6305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49bf14d1.css",
+    "static/js/main.b9db6305.js"
+  ]
+}
